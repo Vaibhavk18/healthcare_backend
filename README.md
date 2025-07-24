@@ -54,11 +54,3 @@ A backend system for a healthcare application using Django, Django REST Framewor
 
 > All endpoints (except registration and login) require JWT authentication. Use the `Authorization: Bearer <access_token>` header.
 
-## Testing
-
-- Use Postman or any API client to test endpoints.
-- See assignment instructions for sample requests.
-
-## Notes
-- Do **not** commit your `.env` file.
-- All sensitive settings are managed via environment variables. 
